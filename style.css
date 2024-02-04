@@ -1,0 +1,13 @@
+
+*{
+    padding: 0;
+    margin:0;
+    box-sizing: border-box;
+}.card{
+    padding: 50px;
+    width: 580px;
+   position: relative;
+   top: 0;
+   left: 30%;
+}
+
